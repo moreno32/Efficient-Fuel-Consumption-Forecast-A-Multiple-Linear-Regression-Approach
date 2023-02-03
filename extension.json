@@ -1,0 +1,18 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "Efficient Fuel Consumption Forecast: A Multiple Linear Regression Approach",
+    "description": "The purpose of this project is to build a model that can accurately predict the fuel consumption of new light-duty vehicles in Canada using a Multiple Linear Regression approach.",
+    "author": "Daniel Moreno",
+    "author_profile": "www.linkedin.com/in/dmoreno-ai",
+    "url": "https://github.com/moreno32/Efficient-Fuel-Consumption-Forecast-A-Multiple-Linear-Regression-Approach.git",
+    "website": "https://www.danielmoreno.com",
+    "image": "",
+    "templates": {
+        "author": "",
+        "docpath": ""
+    },
+    "dependencies": []
+}
